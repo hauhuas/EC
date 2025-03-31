@@ -15,5 +15,8 @@ def check():
     print(response.text)
 
 
+def check2():
+    print("hello world!")
+
 if __name__ == '__main__':
-    check()
+    check2()
